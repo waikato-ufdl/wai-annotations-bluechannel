@@ -1,6 +1,10 @@
 # wai-annotations-bluechannel
 wai.annotations module for dealing with image segmentation images that use the blue channel.
 
+The manual is available here:
+
+https://ufdl.cms.waikato.ac.nz/wai-annotations-manual/
+
 ## Plugins
 ### FROM-BLUE-CHANNEL-IS
 Reads image segmentation files in the blue-channel format
